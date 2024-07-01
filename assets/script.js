@@ -1,4 +1,6 @@
 const num1 = 3;
 const num2 = 5;
 
-// outputResult(num1 + num2);
+const calculatedNum = (num1 + num2) ** num2;
+
+outputResult(calculatedNum);
